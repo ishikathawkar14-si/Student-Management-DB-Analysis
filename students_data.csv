@@ -1,0 +1,21 @@
+StudentID,Name,Grade,Gender,MathScore,ScienceScore,EnglishScore,Attendance,DateEnrolled
+1,Priya Sharma,10,F,92,88,85,95,2024-06-15
+2,Aditya Patel,10,M,78,82,79,88,2024-06-15
+3,Neha Gupta,9,F,85,90,88,92,2024-06-01
+4,Rohit Singh,11,M,88,85,82,90,2024-05-20
+5,Ananya Das,9,F,95,93,91,98,2024-06-01
+6,Vikram Kumar,12,M,81,79,75,85,2024-04-10
+7,Isha Malhotra,10,F,89,87,90,94,2024-06-15
+8,Arjun Verma,11,M,76,80,78,82,2024-05-20
+9,Divya Nair,9,F,88,89,87,91,2024-06-01
+10,Ravi Kapoor,12,M,92,90,88,96,2024-04-10
+11,Pooja Singh,10,F,84,86,85,89,2024-06-15
+12,Sanjay Iyer,9,M,79,81,80,86,2024-06-01
+13,Shreya Menon,11,F,90,91,92,95,2024-05-20
+14,Nitin Joshi,10,M,86,84,81,88,2024-06-15
+15,Zara Ahmed,12,F,94,92,95,97,2024-04-10
+16,Karan Reddy,9,M,82,83,81,87,2024-06-01
+17,Avni Sharma,11,F,87,88,89,92,2024-05-20
+18,Manish Gupta,10,M,73,75,72,79,2024-06-15
+19,Sakshi Patel,9,F,91,89,90,94,2024-06-01
+20,Harsh Verma,12,M,85,83,79,84,2024-04-10
